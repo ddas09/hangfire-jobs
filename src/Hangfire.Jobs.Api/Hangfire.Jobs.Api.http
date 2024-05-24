@@ -1,0 +1,6 @@
+@Hangfire.Jobs.Api_HostAddress = http://localhost:5042
+
+GET {{Hangfire.Jobs.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
